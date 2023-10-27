@@ -1,4 +1,4 @@
-#CS5300-Project3-RealTime2DObjectRecognition
+# Project3-RealTime2DObjectRecognition
 
 os win11
 ide vs studio
